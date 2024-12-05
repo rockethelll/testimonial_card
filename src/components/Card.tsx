@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <div className={styles.card}>
       <div className={styles.header}>
-        <img src='./img/profile-thumbnail.png' alt='Sarah Dole profile picture' />
+        <img src='/img/profile-thumbnail.png' alt='Sarah Dole profile picture' />
         <div className={styles.infos}>
           <span>Sarah Dole</span>
           <span>@sarahdole</span>
